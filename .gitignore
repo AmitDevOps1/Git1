@@ -1,3 +1,4 @@
-.class file
-.xmlfile
-.sshfile
+*.class
+*.xml
+*.java
+
